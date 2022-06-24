@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://sahtushar.github.io/csb-3vfbtn/static/css/main.bed9c162.chunk.css",
+    "main.js": "https://sahtushar.github.io/csb-3vfbtn/static/js/main.00a3b811.chunk.js",
+    "main.js.map": "https://sahtushar.github.io/csb-3vfbtn/static/js/main.00a3b811.chunk.js.map",
+    "runtime-main.js": "https://sahtushar.github.io/csb-3vfbtn/static/js/runtime-main.b80b1b5b.js",
+    "runtime-main.js.map": "https://sahtushar.github.io/csb-3vfbtn/static/js/runtime-main.b80b1b5b.js.map",
+    "static/js/2.87c4b056.chunk.js": "https://sahtushar.github.io/csb-3vfbtn/static/js/2.87c4b056.chunk.js",
+    "static/js/2.87c4b056.chunk.js.map": "https://sahtushar.github.io/csb-3vfbtn/static/js/2.87c4b056.chunk.js.map",
+    "index.html": "https://sahtushar.github.io/csb-3vfbtn/index.html",
+    "static/css/main.bed9c162.chunk.css.map": "https://sahtushar.github.io/csb-3vfbtn/static/css/main.bed9c162.chunk.css.map",
+    "static/js/2.87c4b056.chunk.js.LICENSE.txt": "https://sahtushar.github.io/csb-3vfbtn/static/js/2.87c4b056.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b80b1b5b.js",
+    "static/js/2.87c4b056.chunk.js",
+    "static/css/main.bed9c162.chunk.css",
+    "static/js/main.00a3b811.chunk.js"
+  ]
+}
